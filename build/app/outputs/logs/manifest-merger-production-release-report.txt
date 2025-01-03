@@ -1,0 +1,432 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:2:5-33:19
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:2:5-33:19
+MERGED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f1b9a8cd0062e4bcc15012201cd663f6\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f1b9a8cd0062e4bcc15012201cd663f6\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\d8496e4884557a5b2dde2715b76063f3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\d8496e4884557a5b2dde2715b76063f3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:3:9-41
+	android:icon
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:5:9-43
+	android:name
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:4:9-42
+manifest
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_native_splash] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_native_splash\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_secure_storage\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\path_provider_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\sqflite_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\45821dee26eae54f58acdef0037b5c24\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\c5218a6e25abf7928ccdbd04beb536ef\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\cf953718d6aa302bb91b67cdaf9b1776\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\855835bc1d3907d200a7ca0798e16aa9\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\c8cc2d18e0e961745a275aa95cb9a49b\transformed\jetified-fragment-ktx-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\517d6de4653d6dba366ea12b472bbee8\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\7924bd71d3926b6f1ad8f975db8ac517\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\c3dda217b278a4880a99fcdc516fef3c\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1858fb19d81928213bff458d5d5d3e6f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\93921f7dccec994611cb0db1f04c5f5f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\0f789a12d67382bd937ded8978041c7c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\7e5e0e96a9fc6d83c190165ba3a591ba\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\31bd7edc8aa30eaa306f83fa48a15a71\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\84171029b4a9be2b30df8ca67ad57ce5\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\94fbc425d4f07c5f1bc80c551865c376\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\b324a662f7e467107ab69a52c11dc8ad\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\b171711eab9c0d700cc03384c62a63ad\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\79098072f4368d477a86d3002443f661\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\e89af2a1bda606d9bb5e7a32b551f44c\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1f583b22e8dcdbd223e38a483adb3c9a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f1b9a8cd0062e4bcc15012201cd663f6\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\ec74b78c585d4b6ca763bd093a380873\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\17f14ccfbe09d44c0afe528d1186ad94\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\4efc73a6e4a0e72d9f062e51d08de977\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\8953aff18d5f42dd162dc7b6f18136e9\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\86e2787980526c917f1c0093c90bc4fa\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4e481f65bed5ef6e6995d286746eaa8d\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\dc6caaf903ec7d3d55bf1efe022321fe\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\ca62a29c48bfd92c9680bed9319244e2\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\7d0a0fdef4e202548b201abd0d3271ab\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\2133518a5aa46de718ddbc79a86a8cc7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f886818c5024bb6f6a04d7c7b3c23f6a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\bc75679e3f592362b3925d94acef1787\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\df9be742febd6427f4f2800345911980\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\11bc4c09b61d618bebcd6d137c00adc6\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\2c3a435c86ab79495064d911e5f6627e\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] C:\Users\EHAB\.gradle\caches\8.10\transforms\202bedba8e6a7649fb2c4c986c4980ec\transformed\jetified-security-crypto-1.1.0-alpha06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\90b09cb0647796f55532c3e55f6824ab\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\d8496e4884557a5b2dde2715b76063f3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\cc677297fdd2bdaacb5bb29d8b461679\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\40af77d039b38e9448a3f4f7c7c5192a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\233bcf961372808f73036069296f4b31\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\ef3f394c0abd86aa09a036787ea29885\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d26d4254e0a73f1a311eaffea697073c\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1c61c748ee852a4046eae2200099414e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\fc0ca97ed07ba77d8e09113dc4fd555b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\816633829ad3a197a38d97e453e2f69b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\5cca673b17290eb6605c046e41f3afe4\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\EHAB\.gradle\caches\8.10\transforms\856352fb3cc78787bd98c694f1efe35d\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:42:19-48
+activity#com.example.doctor_appointment.MainActivity
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:6:9-27:20
+	android:launchMode
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:8:13-36
+	android:configChanges
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:taskAffinity
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:20:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:30:9-32:33
+	android:value
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml:31:13-44
+uses-sdk
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_splash] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_native_splash\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_splash] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_native_splash\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_secure_storage\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-8:53
+MERGED from [:flutter_secure_storage] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_secure_storage\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-8:53
+MERGED from [:path_provider_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\path_provider_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\path_provider_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\sqflite_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\sqflite_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\45821dee26eae54f58acdef0037b5c24\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\45821dee26eae54f58acdef0037b5c24\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\c5218a6e25abf7928ccdbd04beb536ef\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\c5218a6e25abf7928ccdbd04beb536ef\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\cf953718d6aa302bb91b67cdaf9b1776\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\cf953718d6aa302bb91b67cdaf9b1776\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\855835bc1d3907d200a7ca0798e16aa9\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\855835bc1d3907d200a7ca0798e16aa9\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\c8cc2d18e0e961745a275aa95cb9a49b\transformed\jetified-fragment-ktx-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\c8cc2d18e0e961745a275aa95cb9a49b\transformed\jetified-fragment-ktx-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\517d6de4653d6dba366ea12b472bbee8\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\517d6de4653d6dba366ea12b472bbee8\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\7924bd71d3926b6f1ad8f975db8ac517\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\7924bd71d3926b6f1ad8f975db8ac517\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\c3dda217b278a4880a99fcdc516fef3c\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\c3dda217b278a4880a99fcdc516fef3c\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1858fb19d81928213bff458d5d5d3e6f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1858fb19d81928213bff458d5d5d3e6f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\93921f7dccec994611cb0db1f04c5f5f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\93921f7dccec994611cb0db1f04c5f5f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\0f789a12d67382bd937ded8978041c7c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\0f789a12d67382bd937ded8978041c7c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\7e5e0e96a9fc6d83c190165ba3a591ba\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\7e5e0e96a9fc6d83c190165ba3a591ba\transformed\jetified-lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\31bd7edc8aa30eaa306f83fa48a15a71\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\31bd7edc8aa30eaa306f83fa48a15a71\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\84171029b4a9be2b30df8ca67ad57ce5\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\84171029b4a9be2b30df8ca67ad57ce5\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\94fbc425d4f07c5f1bc80c551865c376\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\94fbc425d4f07c5f1bc80c551865c376\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\b324a662f7e467107ab69a52c11dc8ad\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\b324a662f7e467107ab69a52c11dc8ad\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\b171711eab9c0d700cc03384c62a63ad\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\b171711eab9c0d700cc03384c62a63ad\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\79098072f4368d477a86d3002443f661\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\79098072f4368d477a86d3002443f661\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\e89af2a1bda606d9bb5e7a32b551f44c\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\e89af2a1bda606d9bb5e7a32b551f44c\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1f583b22e8dcdbd223e38a483adb3c9a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1f583b22e8dcdbd223e38a483adb3c9a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f1b9a8cd0062e4bcc15012201cd663f6\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f1b9a8cd0062e4bcc15012201cd663f6\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\ec74b78c585d4b6ca763bd093a380873\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\ec74b78c585d4b6ca763bd093a380873\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\17f14ccfbe09d44c0afe528d1186ad94\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\17f14ccfbe09d44c0afe528d1186ad94\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\4efc73a6e4a0e72d9f062e51d08de977\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\4efc73a6e4a0e72d9f062e51d08de977\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\8953aff18d5f42dd162dc7b6f18136e9\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\8953aff18d5f42dd162dc7b6f18136e9\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\86e2787980526c917f1c0093c90bc4fa\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\86e2787980526c917f1c0093c90bc4fa\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4e481f65bed5ef6e6995d286746eaa8d\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4e481f65bed5ef6e6995d286746eaa8d\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\dc6caaf903ec7d3d55bf1efe022321fe\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\dc6caaf903ec7d3d55bf1efe022321fe\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\ca62a29c48bfd92c9680bed9319244e2\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\ca62a29c48bfd92c9680bed9319244e2\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\7d0a0fdef4e202548b201abd0d3271ab\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\7d0a0fdef4e202548b201abd0d3271ab\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\2133518a5aa46de718ddbc79a86a8cc7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\2133518a5aa46de718ddbc79a86a8cc7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f886818c5024bb6f6a04d7c7b3c23f6a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\f886818c5024bb6f6a04d7c7b3c23f6a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\bc75679e3f592362b3925d94acef1787\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\bc75679e3f592362b3925d94acef1787\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\df9be742febd6427f4f2800345911980\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\df9be742febd6427f4f2800345911980\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\11bc4c09b61d618bebcd6d137c00adc6\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\11bc4c09b61d618bebcd6d137c00adc6\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\2c3a435c86ab79495064d911e5f6627e\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\2c3a435c86ab79495064d911e5f6627e\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] C:\Users\EHAB\.gradle\caches\8.10\transforms\202bedba8e6a7649fb2c4c986c4980ec\transformed\jetified-security-crypto-1.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] C:\Users\EHAB\.gradle\caches\8.10\transforms\202bedba8e6a7649fb2c4c986c4980ec\transformed\jetified-security-crypto-1.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\90b09cb0647796f55532c3e55f6824ab\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\90b09cb0647796f55532c3e55f6824ab\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\d8496e4884557a5b2dde2715b76063f3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\d8496e4884557a5b2dde2715b76063f3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\cc677297fdd2bdaacb5bb29d8b461679\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\cc677297fdd2bdaacb5bb29d8b461679\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\40af77d039b38e9448a3f4f7c7c5192a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\40af77d039b38e9448a3f4f7c7c5192a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\233bcf961372808f73036069296f4b31\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\233bcf961372808f73036069296f4b31\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\ef3f394c0abd86aa09a036787ea29885\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\ef3f394c0abd86aa09a036787ea29885\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d26d4254e0a73f1a311eaffea697073c\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d26d4254e0a73f1a311eaffea697073c\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1c61c748ee852a4046eae2200099414e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\1c61c748ee852a4046eae2200099414e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\fc0ca97ed07ba77d8e09113dc4fd555b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\fc0ca97ed07ba77d8e09113dc4fd555b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\816633829ad3a197a38d97e453e2f69b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\816633829ad3a197a38d97e453e2f69b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\5cca673b17290eb6605c046e41f3afe4\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\5cca673b17290eb6605c046e41f3afe4\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\EHAB\.gradle\caches\8.10\transforms\856352fb3cc78787bd98c694f1efe35d\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\EHAB\.gradle\caches\8.10\transforms\856352fb3cc78787bd98c694f1efe35d\transformed\jetified-relinker-1.4.5\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [:flutter_secure_storage] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_secure_storage\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-50
+	android:targetSdkVersion
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:33:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:17-124
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\708e86d40fd39f9add55e36711e97a95\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\d3011007d9fc614ee221bea7c0765248\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\4d3c7a2d3cf4cdd985d5197fa5103f6b\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.doctor_appointment.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.doctor_appointment.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\829302598f55fb4610a07d2a9292d740\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\931f2959218dd417aabd67e09b16f1a6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\EHAB\.gradle\caches\8.10\transforms\798ead574d4b40a0363e48ac4518d3af\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\EHAB\.gradle\caches\8.10\transforms\de67933322a9e8653d55071ff661753a\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

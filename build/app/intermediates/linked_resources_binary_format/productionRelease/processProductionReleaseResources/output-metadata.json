@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "LINKED_RESOURCES_BINARY_FORMAT",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.doctor_appointment",
+  "variantName": "productionRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0.8",
+      "outputFile": "linked-resources-binary-format-productionRelease.ap_"
+    }
+  ],
+  "elementType": "File"
+}
