@@ -1,4 +1,0 @@
-#Fri Jan 03 00:49:40 EET 2025
-base.0=C\:\\Users\\EHAB\\Flutter projects\\doctor_appointment_app\\build\\app\\intermediates\\dex\\productionRelease\\minifyProductionReleaseWithR8\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

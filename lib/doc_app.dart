@@ -1,5 +1,6 @@
 import 'package:doctor_appointment/core/routing/routes.dart';
 import 'package:doctor_appointment/core/theming/colors.dart';
+import 'package:doctor_appointment/main_production.dart';
 import 'package:flutter/material.dart';
 
 import 'core/routing/app_router.dart';
@@ -23,7 +24,7 @@ class DocApp extends StatelessWidget {
           
           ),
 
-          initialRoute: Routes.onBoardingScreen,
+          initialRoute: isLoggedInUser ? Routes.homeScreen : Routes.loginScreen,
 
         onGenerateRoute: appRouter.genrateRoute,
         

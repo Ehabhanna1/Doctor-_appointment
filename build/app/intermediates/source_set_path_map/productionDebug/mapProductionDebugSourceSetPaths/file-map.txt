@@ -1,0 +1,54 @@
+com.example.doctor_appointment.app-slidingpanelayout-1.2.0-0 C:\Users\EHAB\.gradle\caches\8.10\transforms\03dee8e29df0ce7a2feee0aae235ec06\transformed\slidingpanelayout-1.2.0\res
+com.example.doctor_appointment.app-jetified-profileinstaller-1.3.1-1 C:\Users\EHAB\.gradle\caches\8.10\transforms\08f3452c38591b7e1b5d34957d09149a\transformed\jetified-profileinstaller-1.3.1\res
+com.example.doctor_appointment.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-2 C:\Users\EHAB\.gradle\caches\8.10\transforms\09e1d524e2db8a7d860a3e670b99d726\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.doctor_appointment.app-core-runtime-2.2.0-3 C:\Users\EHAB\.gradle\caches\8.10\transforms\09f8a6d035c4680936e7717f3525c7a2\transformed\core-runtime-2.2.0\res
+com.example.doctor_appointment.app-jetified-savedstate-1.2.1-4 C:\Users\EHAB\.gradle\caches\8.10\transforms\112ca1fba9339fb8d3efe30ed86dbcb3\transformed\jetified-savedstate-1.2.1\res
+com.example.doctor_appointment.app-jetified-lifecycle-runtime-ktx-2.7.0-5 C:\Users\EHAB\.gradle\caches\8.10\transforms\166b32b04540847bd69912b14653cecc\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.doctor_appointment.app-jetified-core-ktx-1.13.1-6 C:\Users\EHAB\.gradle\caches\8.10\transforms\2a29b1afa6d47241972869a961a0bc62\transformed\jetified-core-ktx-1.13.1\res
+com.example.doctor_appointment.app-jetified-datastore-core-release-7 C:\Users\EHAB\.gradle\caches\8.10\transforms\2f4c0e09e98460d2570fd6b0d35a3ebd\transformed\jetified-datastore-core-release\res
+com.example.doctor_appointment.app-jetified-appcompat-resources-1.1.0-8 C:\Users\EHAB\.gradle\caches\8.10\transforms\312e9c02491b3336cb78028f140cd2f4\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.doctor_appointment.app-jetified-fragment-ktx-1.7.1-9 C:\Users\EHAB\.gradle\caches\8.10\transforms\316d76e3f99ca21832b168225c3c1cb3\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.doctor_appointment.app-fragment-1.7.1-10 C:\Users\EHAB\.gradle\caches\8.10\transforms\3aed2bc6ffb845811ebb0469b7b616aa\transformed\fragment-1.7.1\res
+com.example.doctor_appointment.app-jetified-tracing-1.2.0-11 C:\Users\EHAB\.gradle\caches\8.10\transforms\42228561c8a93e86574bc5bf5e6b8ef3\transformed\jetified-tracing-1.2.0\res
+com.example.doctor_appointment.app-jetified-security-crypto-1.1.0-alpha06-12 C:\Users\EHAB\.gradle\caches\8.10\transforms\454b8f8b1eb83bc5ca8c0f1c92bf4bff\transformed\jetified-security-crypto-1.1.0-alpha06\res
+com.example.doctor_appointment.app-jetified-play-services-basement-18.3.0-13 C:\Users\EHAB\.gradle\caches\8.10\transforms\49b02dacae7581904d8df3f2ad495531\transformed\jetified-play-services-basement-18.3.0\res
+com.example.doctor_appointment.app-jetified-lifecycle-viewmodel-ktx-2.7.0-14 C:\Users\EHAB\.gradle\caches\8.10\transforms\590db6885779fc493b395417a5f14de8\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.doctor_appointment.app-jetified-core-1.0.0-15 C:\Users\EHAB\.gradle\caches\8.10\transforms\5cf99e77af54a233ec4bef7ce828d34c\transformed\jetified-core-1.0.0\res
+com.example.doctor_appointment.app-jetified-firebase-common-21.0.0-16 C:\Users\EHAB\.gradle\caches\8.10\transforms\71c22308db25107f61867db79c909a07\transformed\jetified-firebase-common-21.0.0\res
+com.example.doctor_appointment.app-jetified-activity-1.8.1-17 C:\Users\EHAB\.gradle\caches\8.10\transforms\7c8c8c5d214c2acb405fde4587feb1d9\transformed\jetified-activity-1.8.1\res
+com.example.doctor_appointment.app-jetified-lifecycle-livedata-core-ktx-2.7.0-18 C:\Users\EHAB\.gradle\caches\8.10\transforms\7d759bcdc837044caf941f0dd6f47c4e\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.doctor_appointment.app-jetified-datastore-preferences-release-19 C:\Users\EHAB\.gradle\caches\8.10\transforms\8690d50cba01793d1457c9eed3867ac1\transformed\jetified-datastore-preferences-release\res
+com.example.doctor_appointment.app-lifecycle-viewmodel-2.7.0-20 C:\Users\EHAB\.gradle\caches\8.10\transforms\8c556045d6995b5b603da12557d7b6d7\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.doctor_appointment.app-lifecycle-livedata-core-2.7.0-21 C:\Users\EHAB\.gradle\caches\8.10\transforms\95307f8314878f5d91b55b856a64c6c5\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.doctor_appointment.app-lifecycle-runtime-2.7.0-22 C:\Users\EHAB\.gradle\caches\8.10\transforms\9661c923fa59520dcbcc24ea8f0a4908\transformed\lifecycle-runtime-2.7.0\res
+com.example.doctor_appointment.app-recyclerview-1.0.0-23 C:\Users\EHAB\.gradle\caches\8.10\transforms\9b8027bede4fb27abffed45cb6111a33\transformed\recyclerview-1.0.0\res
+com.example.doctor_appointment.app-jetified-startup-runtime-1.1.1-24 C:\Users\EHAB\.gradle\caches\8.10\transforms\ac0a26bfd028795c1c4e490136272c88\transformed\jetified-startup-runtime-1.1.1\res
+com.example.doctor_appointment.app-core-1.13.1-25 C:\Users\EHAB\.gradle\caches\8.10\transforms\b599ef357ef808f0dbdb9160eebebe89\transformed\core-1.13.1\res
+com.example.doctor_appointment.app-transition-1.4.1-26 C:\Users\EHAB\.gradle\caches\8.10\transforms\bbd368cea85b5a18c20ee8d1cbe5ba2a\transformed\transition-1.4.1\res
+com.example.doctor_appointment.app-lifecycle-livedata-2.7.0-27 C:\Users\EHAB\.gradle\caches\8.10\transforms\c8a4259f8662357f901e713228d56713\transformed\lifecycle-livedata-2.7.0\res
+com.example.doctor_appointment.app-jetified-annotation-experimental-1.4.0-28 C:\Users\EHAB\.gradle\caches\8.10\transforms\d381e958d5a6ef01dd93463baa38e388\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.doctor_appointment.app-jetified-datastore-release-29 C:\Users\EHAB\.gradle\caches\8.10\transforms\d45bfe509d92733406b58b0069473bb5\transformed\jetified-datastore-release\res
+com.example.doctor_appointment.app-preference-1.2.1-30 C:\Users\EHAB\.gradle\caches\8.10\transforms\d85ca3b6ca9c340baab1299c9bafea3b\transformed\preference-1.2.1\res
+com.example.doctor_appointment.app-appcompat-1.1.0-31 C:\Users\EHAB\.gradle\caches\8.10\transforms\dce3ad4053a8261a7a090aba0aed1983\transformed\appcompat-1.1.0\res
+com.example.doctor_appointment.app-jetified-window-java-1.2.0-32 C:\Users\EHAB\.gradle\caches\8.10\transforms\e0eccdda29040b3960d4bf07f318ff63\transformed\jetified-window-java-1.2.0\res
+com.example.doctor_appointment.app-jetified-savedstate-ktx-1.2.1-33 C:\Users\EHAB\.gradle\caches\8.10\transforms\e5a67181d5e9868046548cdf6b1c29bd\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.doctor_appointment.app-coordinatorlayout-1.0.0-34 C:\Users\EHAB\.gradle\caches\8.10\transforms\e5adabf2dde92e28171ef49d8605f28e\transformed\coordinatorlayout-1.0.0\res
+com.example.doctor_appointment.app-jetified-activity-ktx-1.8.1-35 C:\Users\EHAB\.gradle\caches\8.10\transforms\e9502af3571259f555f232c5fc07f977\transformed\jetified-activity-ktx-1.8.1\res
+com.example.doctor_appointment.app-jetified-window-1.2.0-36 C:\Users\EHAB\.gradle\caches\8.10\transforms\eff8f0b93dafcc0bfe2c446d5cf25b82\transformed\jetified-window-1.2.0\res
+com.example.doctor_appointment.app-jetified-lifecycle-process-2.7.0-37 C:\Users\EHAB\.gradle\caches\8.10\transforms\f9bc959e659d7714f2f42bb423a3c075\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.doctor_appointment.app-debug-38 C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\debug\res
+com.example.doctor_appointment.app-main-39 C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\main\res
+com.example.doctor_appointment.app-production-40 C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\production\res
+com.example.doctor_appointment.app-productionDebug-41 C:\Users\EHAB\Flutter projects\doctor_appointment_app\android\app\src\productionDebug\res
+com.example.doctor_appointment.app-production-42 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\app\generated\res\pngs\production\debug
+com.example.doctor_appointment.app-res-43 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\app\generated\res\processProductionDebugGoogleServices
+com.example.doctor_appointment.app-production-44 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\app\generated\res\resValues\production\debug
+com.example.doctor_appointment.app-packageProductionDebugResources-45 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\app\intermediates\incremental\productionDebug\packageProductionDebugResources\merged.dir
+com.example.doctor_appointment.app-packageProductionDebugResources-46 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\app\intermediates\incremental\productionDebug\packageProductionDebugResources\stripped.dir
+com.example.doctor_appointment.app-productionDebug-47 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\app\intermediates\merged_res\productionDebug\mergeProductionDebugResources
+com.example.doctor_appointment.app-debug-48 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+com.example.doctor_appointment.app-debug-49 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_native_splash\intermediates\packaged_res\debug\packageDebugResources
+com.example.doctor_appointment.app-debug-50 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\flutter_secure_storage\intermediates\packaged_res\debug\packageDebugResources
+com.example.doctor_appointment.app-debug-51 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.doctor_appointment.app-debug-52 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\shared_preferences_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.doctor_appointment.app-debug-53 C:\Users\EHAB\Flutter projects\doctor_appointment_app\build\sqflite_android\intermediates\packaged_res\debug\packageDebugResources
